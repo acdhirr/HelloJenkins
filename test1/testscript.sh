@@ -2,5 +2,5 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "This however is something completely different..."
+echo "This then is something completely different..."
 
